@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "firesotre-grafica": {
+      "hosting": {
+        "ingresoEgresoApp": [
+          "firesotre-grafica"
+        ]
+      }
+    }
+  }
+}
