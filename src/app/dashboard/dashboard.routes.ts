@@ -8,5 +8,4 @@ export const dashboardRoutes: Routes = [
     { path: '', component: EstadisticaComponent },
     { path: 'ingreso-egreso', component: IngesoEgresoComponent },
     { path: 'detalle', component: DetalleComponent },
-
 ]
